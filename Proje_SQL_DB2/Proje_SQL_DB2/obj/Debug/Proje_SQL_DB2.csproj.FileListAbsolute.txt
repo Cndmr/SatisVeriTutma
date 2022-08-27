@@ -1,0 +1,13 @@
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\bin\Debug\Proje_SQL_DB2.exe.config
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\bin\Debug\Proje_SQL_DB2.exe
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\bin\Debug\Proje_SQL_DB2.pdb
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.csproj.AssemblyReference.cache
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.csproj.SuggestedBindingRedirects.cache
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.Form1.resources
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.Properties.Resources.resources
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.csproj.GenerateResource.cache
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.csproj.CoreCompileInputs.cache
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.exe
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.pdb
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.FrmMusteri.resources
+C:\Users\efe38\source\repos\Proje_SQL_DB2\Proje_SQL_DB2\obj\Debug\Proje_SQL_DB2.FrmKategoriler.resources
